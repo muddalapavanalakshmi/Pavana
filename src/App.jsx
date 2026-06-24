@@ -297,7 +297,7 @@ overflow: "visible",
     <div style={styles.details}>
       <hr />
       <p><b>College:</b> Aditya College of Engineering and Technology</p>
-      <p><b>CGPA:</b> 7.59</p>
+      <p><b>CGPA:</b> 7.75</p>
       
       <p><b>Degree:</b> B.Tech</p>
       <p><b>Duration:</b>2024-2028</p>
